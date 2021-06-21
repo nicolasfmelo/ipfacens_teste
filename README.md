@@ -12,4 +12,4 @@
 <p>Tesseract OCR poderia solucionar bem este caso ou até mesmo detecção de objetos<p>
 
   <h3>Resultado:</h3>
-  ![alt text](https://github.com/nicolasfmelo/ipfacens_teste/blob/master/final.png?raw=true)
+  ![alt text](https://github.com/nicolasfmelo/ipfacens_teste/blob/master/final.png?raw=true "Title")
