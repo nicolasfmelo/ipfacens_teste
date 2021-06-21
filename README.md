@@ -10,3 +10,6 @@
 <h3>Relatório:</h3>
 <p>Pela restrição da base de dados ser pequena, métodos como matchtemplate, similaridade de matrizes ou mean squared errror, não são eficazes para este problema em específico</p>
 <p>Tesseract OCR poderia solucionar bem este caso ou até mesmo detecção de objetos<p>
+
+  <h3>Resultado:</h3>
+  ![alt text](https://github.com/nicolasfmelo/ipfacens_teste/blob/master/placa.png)
